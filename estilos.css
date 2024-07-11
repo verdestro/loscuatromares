@@ -1,0 +1,18 @@
+.header{
+    width: 100%;
+    font-family: "Times New Roman";
+    background-color: cornflowerblue;
+}
+body {
+    background-color: aqua;
+}
+.contenido{
+    font-family: "Comic Sans MS";
+    
+}
+.lista{
+    font-size:x-large;
+    font-family: "Comic Sans MS";
+    
+    
+}
