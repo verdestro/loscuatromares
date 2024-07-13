@@ -10,6 +10,15 @@ body {
     font-family: "Comic Sans MS";
     
 }
+.contenido2{
+    font-family: "Comic Sans MS";
+    margin-left: 25%;
+    
+}
+.contenedor{
+    display: flex;
+    
+}
 .lista{
     font-size:x-large;
     font-family: "Comic Sans MS";
